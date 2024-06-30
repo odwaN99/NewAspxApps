@@ -11,6 +11,8 @@ namespace HotelDemo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            var number;
+            var total;
 
         }
     }
